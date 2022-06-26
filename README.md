@@ -2,7 +2,7 @@
 - 👀 I’m interested in fintech, blockchain and the metaverse
 - 🌱 I’m currently learning blockchain and smart contracts in my fintech bootcamp
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kzenta@live.ca
 
 <!---
 KatZenta/KatZenta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
